@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gabrielui
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning  SQL, python, logica de programação.
+- 👀 I’m interested in HTML e CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
